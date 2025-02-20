@@ -1,0 +1,12 @@
+{
+    "name": "Tirios Coin",
+    "symbol": "TSDEV",
+    "description": "Tiros Dev Coins",
+    "image": "https://tirios-nft-bucket.s3.us-east-1.amazonaws.com/TiriosCoin.png",
+    "attributes": [
+      {
+        "trait_type": "description",
+        "value": "Tiros Dev Coins"
+      }
+    ]
+  }
