@@ -1,12 +1,24 @@
-{
-    "name": "Tirios Coin new",
-    "symbol": "TSDEV1",
-    "description": "Tiros Dev Coins",
+ {
+    "name": "Tirios Coin",
+    "symbol": "TSDEV",
+    "description": "Tirios Coin is a stablecoin backed by real-world assets, enabling seamless transactions and financial stability.",
     "image": "https://tirios-nft-bucket.s3.us-east-1.amazonaws.com/TiriosCoin.png",
-    "attributes": [
-      {
-        "trait_type": "description",
-        "value": "Tiros Dev Coins"
+    "external_url": "https://tirios.io",
+    "decimals": 9,
+    "properties": {
+      "category": "Stablecoin",
+      "website": "https://tirios.io",
+      "whitepaper": "https://tirios.io/whitepaper.pdf",
+      "socials": {
+        "twitter": "https://twitter.com/tirios",
+        "discord": "https://discord.gg/tirios",
+        "telegram": "https://t.me/tirios"
       }
-    ]
+    },
+    "extensions": {
+      "transfer_fee": "0.0%",
+      "issuer": "Tirios Inc.",
+      "release_date": "2025-01-01"
+    }
   }
+  
